@@ -10,20 +10,20 @@
 // Character encoding
 $LNG['charset'] = "iso-8859-1";
 
-$LNG['user_success'] = 'User succesfully created!';
-$LNG['user_exists'] = 'This username already exists.';
-$LNG['email_exists'] = 'This e-mail is already in use.';
-$LNG['all_fields'] = 'All fields are required!';
-$LNG['user_alnum'] = 'The username must consists only from letters and numbers.';
-$LNG['user_too_short'] = 'The username must be between 3 and 32 characters.';
-$LNG['invalid_email'] = 'Invalid e-mail!';
-$LNG['invalid_user_pw'] = 'Invalid username or password.';
-$LNG['invalid_captcha'] = 'Invalid captcha';
-$LNG['log_out'] = 'Log Out';
-$LNG['hello'] = 'Hello';
-$LNG['visitor'] = 'Visitor';
-$LNG['register'] = 'Register';
-$LNG['login'] = 'Login';
+$LNG['user_success'] = 'პროფილი წარმატებით შეიქმნა!';
+$LNG['user_exists'] = 'ასეთი სახელი უკვე გამოყენებულია.';
+$LNG['email_exists'] = 'ასეთი ი-მეილი უკვე გამოყენებულია.';
+$LNG['all_fields'] = 'აუცილებელია ყველა ველი შევსებული იყოს!';
+$LNG['user_alnum'] = 'თქვენი სახელი უნდა შედგებოდეს მხოლოდ ციფრებისა და ასოებისაგან.';
+$LNG['user_too_short'] = 'სახელი უნდა შედგებოდეს მინიმუმ 3 მაქსიმუმ 32 ასოსაგან.';
+$LNG['invalid_email'] = 'ელფოსტა არასწორია';
+$LNG['invalid_user_pw'] = 'არასწორია თქვენი სახელი ან თქვენი პაროლი!.';
+$LNG['invalid_captcha'] = 'არასწორია თავდაცვის კოდი';
+$LNG['log_out'] = 'საიტის დატოვება';
+$LNG['hello'] = 'გამარჯობა';
+$LNG['visitor'] = 'მომხმარებელი';
+$LNG['register'] = 'რეგისტრაცია';
+$LNG['login'] = 'შესვლა';
 $LNG['password'] = 'Password';
 $LNG['username'] = 'Username';
 $LNG['email'] = 'Email';
