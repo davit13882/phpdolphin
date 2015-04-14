@@ -10,7 +10,7 @@
 // Character encoding
 $LNG['charset'] = "iso-8859-1";
 
-$LNG['user_success'] = 'User succesfully created!';
+$LNG['user_success'] = 'საას!';
 $LNG['user_exists'] = 'This username already exists.';
 $LNG['email_exists'] = 'This e-mail is already in use.';
 $LNG['all_fields'] = 'All fields are required!';
